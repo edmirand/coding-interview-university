@@ -269,18 +269,18 @@ Estoy usando el tema especial de markdown de Github, incluyendo listas de tareas
 
 
 ## Prepárese para la entrevista
-- [ ] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
-- [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
-- [ ] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
+- [X] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
+- [X] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
+- [X] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
 - [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
-- [ ] Cracking The Coding Interview Set 1:
-    - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
-    - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
-- [ ] How to Get a Job at the Big 4:
-    - [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
+- [X] Cracking The Coding Interview Set 1:
+    - [X] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
+    - [X] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
+- [X] How to Get a Job at the Big 4:
+    - [X] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
 
-- [ ] Prep Course:
-    - [ ] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed):
+- [X] Prep Course:
+    - [X] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed):
         - Aprenda como alistarse para una entrevista de Ingeniería de Software con un entrevistador de Google.
     - [ ] [Python for Data Structures, Algorithms, and Interviews! (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/):
         - Un curso enfocado a una entrevista centrada en Python; que cubre estructuras de datos, algoritmos, plantillas de entrevistas y mucho más.
@@ -313,17 +313,17 @@ Verás algunos materiales de aprendizaje de C, C++ y Python abajo, porque estoy 
 Ésta es una lista más corta que la que yo usé. Está abreviada para ahorrarle tiempo.
 
 ### Preparación para la entrevista
-- [ ] [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html)
+- [X] [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html)
     - Respuestas en C++ y Java
     - Este es un buen calentamiento para Cracking the Coding Interview
     - No muy difícil, muchos problemas pueden ser más sencillos de los que verá en la entrevista (Por lo que he leído)
-- [ ] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
+- [X] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
     - Respuestas en Java
 
 Si tiene mucho tiempo extra:
 
 - [ ] [Elements of Programming Interviews (C++ version)](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
-- [ ] Elements of Programming Interviews (Java version)
+- [X] Elements of Programming Interviews (Java version)
     - [book](https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517435803/)
     - [Companion Project - Method Stub and Test Cases for Every Problem in the Book](https://github.com/gardncl/elements-of-programming-interviews)
 
@@ -331,7 +331,7 @@ Si tiene mucho tiempo extra:
 
 Si esta corto de tiempo:
 
-- [ ] [Write Great Code: Volume 1: Understanding the Machine](https://www.amazon.com/Write-Great-Code-Understanding-Machine/dp/1593270038)
+- [X] [Write Great Code: Volume 1: Understanding the Machine](https://www.amazon.com/Write-Great-Code-Understanding-Machine/dp/1593270038)
     - El libro fue publicado en 2004, y es algo anticuado pero es un recurso fantástico para la comprensión de una computadora en breve.
     - El autor inventó HLA, por lo que tiene muchas menciones y ejemplos en HLA. No es ampliamente utilizado, pero los ejemplos son decentes para ver cómo es un lenguaje ensamblador.
     - Estos capítulos valen la pena ser leídos para brindarle una buena base:
@@ -347,7 +347,7 @@ Si esta corto de tiempo:
 
 Si tiene más tiempo (Yo quiero este libro):
 
-- [ ] [Computer Architecture, Fifth Edition: A Quantitative Approach](https://www.amazon.com/dp/012383872X/)
+- [X] [Computer Architecture, Fifth Edition: A Quantitative Approach](https://www.amazon.com/dp/012383872X/)
     - Para un tratamiento más rico y actualizado (2011), pero un trato más largo.
 
 ### Específicos del lenguaje
@@ -370,14 +370,14 @@ Si tiene una mejor recomendación para C++ por favor hágamelo saber. Busco fuen
 
 ### Java
 
-- [ ] [Algorithms (Sedgewick and Wayne)](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/)
+- [X] [Algorithms (Sedgewick and Wayne)](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/)
     - videos with book content (and Sedgewick!):
         - [Algorithms I](https://www.youtube.com/user/algorithmscourses/playlists?view=50&sort=dd&shelf_id=2)
         - [Algorithms II](https://www.youtube.com/user/algorithmscourses/playlists?shelf_id=3&view=50&sort=dd)
 
 O:
 
-- [ ] [Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/1118771338/)
+- [X] [Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/1118771338/)
     - Por Goodrich, Tamassia, Goldwasser
     - Usado como texto opcional en el curso de Informática impartido en UC Berkeley
     - Vea mi reporte de la versión de Python debajo. Este libro abarca los mismos tópicos.
@@ -395,7 +395,7 @@ O:
 
 **Algunas personas recomiendan estos pero creo exageran, a menos que tenga muchos años de experiencia en Ingeniería de Software y espere una entrevista mucho más difícil:**
 
-- [ ] [Algorithm Design Manual](http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202) (Skiena)
+- [X] [Algorithm Design Manual](http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202) (Skiena)
     - Como un resumen y un reconocimiento de problemas
     - La porción del catálogo de algoritmos está más allá del alcance de la dificultad que obtendrá en una entrevista.
     - Este libro consta de dos partes:
@@ -1127,7 +1127,7 @@ Obtendrá más práctica de grafos en el libro de Skiena (vea Sección de libros
         - ¿Qué son objetos simulados?
         - ¿Qué es la prueba de integración?
         - ¿Qué es la inyección de dependencia?
-    - [ ] [Agile Software Testing with James Bach (video)](https://www.youtube.com/watch?v=SAhJf36_u5U)
+    - [X] [Agile Software Testing with James Bach (video)](https://www.youtube.com/watch?v=SAhJf36_u5U)
     - [ ] [Open Lecture by James Bach on Software Testing (video)](https://www.youtube.com/watch?v=ILkT_HV9DVU)
     - [ ] [Steve Freeman - Test-Driven Development (that’s not what we meant) (video)](https://vimeo.com/83960706)
         - [slides](http://gotocon.com/dl/goto-berlin-2013/slides/SteveFreeman_TestDrivenDevelopmentThatsNotWhatWeMeant.pdf)
@@ -1225,7 +1225,7 @@ Obtendrá más práctica de grafos en el libro de Skiena (vea Sección de libros
         - Simplicidad y robustez
         - Compromisos
         - Análisis y optimización del rendimiento
-- [ ] **EMPIECE AQUI**: [The System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [X] **EMPIECE AQUI**: [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [ ] [System Design from HiredInTech](http://www.hiredintech.com/system-design/)
 - [ ] [How Do I Prepare To Answer Design Questions In A Technical Inverview?](https://www.quora.com/How-do-I-prepare-to-answer-design-questions-in-a-technical-interview?redirected_qid=1500023)
 - [ ] [8 Things You Need to Know Before a System Design Interview](http://blog.gainlo.co/index.php/2015/10/22/8-things-you-need-to-know-before-system-design-interviews/)
@@ -1242,7 +1242,7 @@ Obtendrá más práctica de grafos en el libro de Skiena (vea Sección de libros
     - [extended video with use case and multi-paxos](https://www.youtube.com/watch?v=JEpsBg0AO6o)
     - [paper](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)
 - [ ] [Consistent Hashing](http://www.tom-e-white.com/2007/11/consistent-hashing.html)
-- [ ] [NoSQL Patterns](http://horicky.blogspot.com/2009/11/nosql-patterns.html)
+- [X] [NoSQL Patterns](http://horicky.blogspot.com/2009/11/nosql-patterns.html)
 - [ ] Escalabilidad:
     - [ ] [Great overview (video)](https://www.youtube.com/watch?v=-W9F__D3oY4)
     - [ ] Series Cortas:
@@ -1250,7 +1250,7 @@ Obtendrá más práctica de grafos en el libro de Skiena (vea Sección de libros
         - [Database](http://www.lecloud.net/post/7994751381/scalability-for-dummies-part-2-database)
         - [Cache](http://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache)
         - [Asynchronism](http://www.lecloud.net/post/9699762917/scalability-for-dummies-part-4-asynchronism)
-    - [ ] [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
+    - [X] [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
     - [ ] [Fallacies of Distributed Computing Explained](https://pages.cs.wisc.edu/~zuyu/files/fallacies.pdf)
     - [ ] [Pragmatic Programming Techniques](http://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html)
         - [extra: Google Pregel Graph Processing](http://horicky.blogspot.com/2010/07/google-pregel-graph-processing.html)
@@ -1349,7 +1349,7 @@ Obtendrá más práctica de grafos en el libro de Skiena (vea Sección de libros
     - [ ] [02. Analysis of Algorithms](https://www.youtube.com/watch?v=ZN-nFW0mEpg&list=PLe-ggMe31CTf0_bkOhh7sa5uqeppp3Sr0)
     - [ ] [03. Stacks and Queues](https://www.youtube.com/watch?v=TIC1gappbP8&list=PLe-ggMe31CTe-9jhnj3P_3mmrCh0A7iHh)
     - [ ] [04. Elementary Sorts](https://www.youtube.com/watch?v=CD2AL6VO0ak&list=PLe-ggMe31CTe_5WhGV0F--7CK8MoRUqBd)
-    - [ ] [05. Mergesort](https://www.youtube.com/watch?v=4nKwesx_c8E&list=PLe-ggMe31CTeunC6GZHFBmQx7EKtjbGf9)
+    - [X] [05. Mergesort](https://www.youtube.com/watch?v=4nKwesx_c8E&list=PLe-ggMe31CTeunC6GZHFBmQx7EKtjbGf9)
     - [ ] [06. Quicksort](https://www.youtube.com/watch?v=5M5A7qPWk84&list=PLe-ggMe31CTeE3x2-nF1-toca1QpuXwE1)
     - [ ] [07. Priority Queues](https://www.youtube.com/watch?v=G9TMe0KC0w0&list=PLe-ggMe31CTducy9LDiGVkdSv0NfiRwn5)
     - [ ] [08. Elementary Symbol Tables](https://www.youtube.com/watch?v=up_nlilw3ac&list=PLe-ggMe31CTc3a8nKRDxFZZrWrBvkc9SG)
@@ -1402,7 +1402,7 @@ Complementarios:
 
 **Lea y haga problemas de programación (en ese orden):**
 
-- [ ] [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html)
+- [X] [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html)
     - Respuestas en C, C++ y Java
 - [ ] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
     - Respuestas en Java
@@ -1413,8 +1413,8 @@ Vea [Lista de libros](#lista-de-libros)
 Una vez haya aprendido, ponga ese cerebro a trabajar.
 Tome desafíos de codificación todos los días y tantos como pueda.
 
-- [ ] [How to Find a Solution](https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-find-a-solution/)
-- [ ] [How to Dissect a Topcoder Problem Statement](https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-dissect-a-topcoder-problem-statement/)
+- [X] [How to Find a Solution](https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-find-a-solution/)
+- [X] [How to Dissect a Topcoder Problem Statement](https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-dissect-a-topcoder-problem-statement/)
 
 Videos de preguntas de entrevistas de código:
 - [IDeserve (88 videos)](https://www.youtube.com/watch?v=NBcqBddFbZw&list=PLamzFoFxwoNjPfxzaWqs7cZGsPYy0x_gI)
@@ -1442,7 +1442,7 @@ Bosquejos de entrevista:
 - [Refdash: Mock interviews](https://refdash.com/)
 
 ## Una vez cerca de la entrevista
-- [ ] Cracking The Coding Interview Set 2 (videos):
+- [X] Cracking The Coding Interview Set 2 (videos):
     - [Cracking The Code Interview](https://www.youtube.com/watch?v=4NIb9l3imAo)
     - [Cracking the Coding Interview - Fullstack Speaker Series](https://www.youtube.com/watch?v=Eg5-tdAwclo)
 
@@ -1510,7 +1510,7 @@ Nunca está de verdad realizado.
 - [ ] [TCP/IP Illustrated Series](https://en.wikipedia.org/wiki/TCP/IP_Illustrated)
 - [ ] [Head First Design Patterns](https://www.amazon.com/gp/product/0596007124/)
     - Una gentil introducción al diseño de patrones
-- [ ] [Design Patterns: Elements of Reusable Object-Oriente​d Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+- [X] [Design Patterns: Elements of Reusable Object-Oriente​d Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
     - aka el libro "Gang Of Four" , o GOF
     - El libro canonico de diseño de patrones
 - [ ] [UNIX and Linux System Administration Handbook, 4th Edition](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057/)
@@ -1520,7 +1520,7 @@ Nunca está de verdad realizado.
 Es probable que estos temas no aparezcan en una entrevista, pero los añadí para ayudarle a convertirse en un Ingeniero de Software más completo, y ser consciente en ciertas tecnologías y algoritmos, para que tenga una caja de herramientas más grande.
 
 - ### Compiladores
-    - [ ] [How a Compiler Works in ~1 minute (video)](https://www.youtube.com/watch?v=IhC7sdYe-Jg)
+    - [X] [How a Compiler Works in ~1 minute (video)](https://www.youtube.com/watch?v=IhC7sdYe-Jg)
     - [ ] [Harvard CS50 - Compilers (video)](https://www.youtube.com/watch?v=CSZLNYF4Klo)
     - [ ] [C++ (video)](https://www.youtube.com/watch?v=twodd1KFfGk)
     - [ ] [Understanding Compiler Optimization (C++) (video)](https://www.youtube.com/watch?v=FnGCDLhaxKU)
@@ -1551,11 +1551,11 @@ Es probable que estos temas no aparezcan en una entrevista, pero los añadí par
     - [ ] bash
     - [ ] cat
     - [ ] grep
-    - [ ] sed
-    - [ ] awk
+    - [X] sed
+    - [X] awk
     - [ ] curl or wget
     - [ ] sort
-    - [ ] tr
+    - [X] tr
     - [ ] uniq
     - [ ] [strace](https://en.wikipedia.org/wiki/Strace)
     - [ ] [tcpdump](https://danielmiessler.com/study/tcpdump/)
@@ -1618,7 +1618,7 @@ Es probable que estos temas no aparezcan en una entrevista, pero los añadí par
 - ### Recolección de basura
     - [ ] [Compilers (video)](https://www.youtube.com/playlist?list=PLO9y7hOkmmSGTy5z6HZ-W4k2y8WXF7Bff)
     - [ ] [GC in Python (video)](https://www.youtube.com/watch?v=iHVs_HkjdmI)
-    - [ ] [Deep Dive Java: Garbage Collection is Good!](https://www.infoq.com/presentations/garbage-collection-benefits)
+    - [X] [Deep Dive Java: Garbage Collection is Good!](https://www.infoq.com/presentations/garbage-collection-benefits)
     - [ ] [Deep Dive Python: Garbage Collection in CPython (video)](https://www.youtube.com/watch?v=P-8Z0-MhdQs&list=PLdzf4Clw0VbOEWOS_sLhT_9zaiQDrS5AR&index=3)
 
 - ### Programación en paralelo
@@ -1643,7 +1643,7 @@ Es probable que estos temas no aparezcan en una entrevista, pero los añadí par
     - [ ] [ZeroMQ](http://zeromq.org/)
         - [Intro - Read The Manual](http://zeromq.org/intro:read-the-manual)
     - [ ] [ActiveMQ](http://activemq.apache.org/)
-    - [ ] [Kafka](http://kafka.apache.org/documentation.html#introduction)
+    - [X] [Kafka](http://kafka.apache.org/documentation.html#introduction)
     - [ ] [MessagePack](http://msgpack.org/index.html)
     - [ ] [Avro](https://avro.apache.org/)
 
